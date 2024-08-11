@@ -1,6 +1,6 @@
 # 👨‍💻 Aspiring Software Engineer | CSE Undergrad | Web Development Enthusiast
 
-# 👋 Hello, I'm Prathmesh!
+# 👋 Hello, I'm Prathmesh !
 
 Welcome to my GitHub profile! I'm a passionate computer science student currently pursuing my Bachelor's degree in Computer Science and Engineering. My journey in tech started with a curiosity for how things work behind the scenes, and this curiosity quickly turned into a deep passion for coding and problem-solving.
 
@@ -8,8 +8,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student currentl
 - **Develop**: I create full-stack web applications using modern frameworks and libraries.
 - **Collaborate**: I enjoy working on team projects and contributing to open-source communities.
 - **Learn**: I'm constantly exploring new technologies and improving my existing skills through hands-on projects and courses.
-
-  Feel free to explore my repositories, where you'll find a mix of projects, from simple scripts to full-fledged applications. Let's connect and collaborate on something awesome!
 
 ## 🔭 What I'm working on
 - Building web applications with modern JavaScript frameworks
@@ -31,13 +29,13 @@ Welcome to my GitHub profile! I'm a passionate computer science student currentl
 I'm always open to connecting with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out to me through any of the platforms below!
 
 ### 🌐 Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-pawar-928731205) **LinkedIn**
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PPrathmesh1570) **Twitter**
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarprathmesh840@gmail.com.com) **Email**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-pawar-928731205)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PPrathmesh1570)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarprathmesh840@gmail.com.com)
 
 ### 💼 Professional Profiles:
-- [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathmesh-1570) **GitHub**
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prathmesh_pawar_1570) **LeetCode**
+- [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathmesh-1570)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prathmesh_pawar_1570)
 ---
 Let's connect and create something amazing together! 🚀
 
