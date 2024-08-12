@@ -29,16 +29,13 @@ Welcome to my GitHub profile! I'm a passionate computer science student currentl
 I'm always open to connecting with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out to me through any of the platforms below!
 
 ### 🌐 Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-pawar-928731205)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PPrathmesh1570)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarprathmesh840@gmail.com.com)
+- <a href="https://www.linkedin.com/in/prathmesh-pawar-928731205"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="margin-bottom: 10px; transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/></a>
+- <a href="https://twitter.com/PPrathmesh1570"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" style="margin-bottom: 10px; transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/></a>
+- <a href="mailto:pawarprathmesh840@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" style="margin-bottom: 10px; transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/></a>
 
 ### 💼 Professional Profiles:
-- [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathmesh-1570)
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prathmesh_pawar_1570)
----
-Let's connect and create something amazing together! 🚀
-
+- <a href="https://github.com/Prathmesh-1570"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" style="margin-bottom: 10px; transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/></a>
+- <a href="https://leetcode.com/prathmesh_pawar_1570"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="30" style="margin-bottom: 10px; transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/></a>
 
 ## 🛠️ Languages and Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -51,7 +48,6 @@ Let's connect and create something amazing together! 🚀
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Prathmesh-1570&theme=onedark)
 
