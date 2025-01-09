@@ -4,6 +4,12 @@
 
 Welcome to my GitHub profile! I'm a passionate computer science student currently pursuing my Bachelor's degree in Computer Science and Engineering. My journey in tech started with a curiosity for how things work behind the scenes, and this curiosity quickly turned into a deep passion for coding and problem-solving.
 
+## 🌟 Portfolio
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer" />
+</a>
+
+
 ## 👨‍💻 What I Do
 - **Develop**: I create full-stack web applications using modern frameworks and libraries.
 - **Collaborate**: I enjoy working on team projects and contributing to open-source communities.
